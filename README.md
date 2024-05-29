@@ -4,7 +4,7 @@ Configuration
 | Действие                                | Горячие клавиши |
 | --------------------------------------- | --------------- |
 | Изменить раскладку                      | `win+space`     |
-| New Tab                                 | `ctrl+t`        |
+| Передвижение окон                       | `win+z`         |
 | Split Editor Horizontally               | `ctrl+[`        |
 | Split Editor Vertically                 | `ctrl+]`        |
 | Open Settings                           | `ctrl+,`        |

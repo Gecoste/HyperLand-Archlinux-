@@ -1,9 +1,9 @@
 # HyperLand-Archlinux-
 Configuration
 
-| Действие                                | Горячие клавиши          |
+| Действие                                | Горячие клавиши |
 | --------------------------------------- | --------------- |
-| Close Tab                               | `ctrl+w`        |
+| Изменить раскладку                      | `win+space`     |
 | New Tab                                 | `ctrl+t`        |
 | Split Editor Horizontally               | `ctrl+[`        |
 | Split Editor Vertically                 | `ctrl+]`        |
